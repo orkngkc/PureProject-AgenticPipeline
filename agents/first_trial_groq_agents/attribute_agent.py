@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 
+
 import config
 from models import Attribute
 from utilities.json_utils import _item_text, _parse
